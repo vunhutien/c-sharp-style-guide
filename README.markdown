@@ -77,7 +77,6 @@ public class MyClass
 {
     public int PublicField;
     int PackagePrivate;
-    private int MyPrivate;
     protected int MyProtected;
 }
 ```
